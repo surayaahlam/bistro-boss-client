@@ -1,0 +1,11 @@
+.bistro-section{
+    background-image: linear-gradient(
+        to left,
+        rgba(0, 0, 0, 0.6),
+        rgba(0, 0, 0, 0.5)
+      ),
+      url("../../../assets/home/chef-service.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+  
