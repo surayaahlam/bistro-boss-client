@@ -69,7 +69,7 @@ Bistro Boss is a modern restaurant management web application that provides user
 
 ## Live Website
 
-- [Bistro Boss]()
+- [Bistro Boss](https://bistro-boss-cb65e.web.app/)
 
 
 ## ⚙️ Installation
@@ -78,8 +78,8 @@ To run Bistro Boss locally, follow these steps:
 ##
 
 ### 1️⃣ Clone the Repository  
-- git clone 
-- cd bistro-boss
+- git clone https://github.com/surayaahlam/bistro-boss-client.git
+- cd bistro-boss-client
 
 ### 2️⃣ Install Dependencies
 - npm install  
